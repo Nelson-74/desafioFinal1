@@ -1,0 +1,45 @@
+
+body {
+    background-color:#E8E8A6;
+}
+.container form, h2{
+  background-color: #E5E3C9;
+}
+
+/* .modalCarrito {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 50%; 
+  height: 50%; 
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); 
+}
+
+ Modal Content/Box  
+.contenedorModal {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80
+}
+
+/* The Close Button  
+.botonCerrar {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.botonCerrar:hover,
+.botonCerrar:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}  
+ */ 
